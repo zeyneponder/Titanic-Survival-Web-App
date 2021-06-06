@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-titanic_data = pd.read_csv('Desktop/train.csv')
+titanic_data = pd.read_csv('train.csv')
 def show_explore_page():
     sns.set_style("white")
     sns.color_palette("rocket", as_cmap=True)
