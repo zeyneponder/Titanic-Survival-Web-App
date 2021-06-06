@@ -9,4 +9,4 @@ explore_page.py, predict.py, app.py : .py files for deploying on streamlit
 
 saved_steps.pkl : A pickle file for saving the regression model
 
-train.csv : Titanic data that i used fot this app.
+train.csv : Titanic data that i used for this app.
