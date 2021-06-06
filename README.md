@@ -1,6 +1,6 @@
 # Titanic-Survival-Web-App
 
-This is a web app that predict if you can survive The Titanic, using streamlit.
+This is a web app that predicts if you can survive The Titanic.
 
 
 titanic.ipynb : All steps that i used for prediction (regression model)
